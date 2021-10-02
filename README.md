@@ -8,4 +8,4 @@
 <p>     i += 1
 <p>     print(f'{randomUgad} > {randomNumber}')
 <p>
-[![name]('Изображение.png')
+[![name]('Изображение.png')]

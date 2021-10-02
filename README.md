@@ -8,4 +8,3 @@
 <p>     i += 1
 <p>     print(f'{randomUgad} > {randomNumber}')
 <p>
-![Screenshot](изображения.png)

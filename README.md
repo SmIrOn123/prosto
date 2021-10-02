@@ -8,3 +8,4 @@
 <p>     i += 1
 <p>     print(f'{randomUgad} > {randomNumber}')
 <p>
+<img href = 'изображение.png'>
